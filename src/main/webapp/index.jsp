@@ -5,7 +5,7 @@
     <title>Dev Bank - Home</title>
 </head>
 <body>
-<h1>Krishna Bank</h1>
+<h1>Krishna Banks</h1>
 <p>This is a sample Java 8 web application deployed on Tomcat using Maven.</p>
 
 <ul>
